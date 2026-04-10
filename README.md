@@ -19,7 +19,7 @@ Output: [[1,7]]
 Explanation: Intervals [1,4] and [4,7] are considered overlapping.
  
 
-Constraints:
+Constraints: 
 
 1 <= intervals.length <= 104
 intervals[i].length == 2
